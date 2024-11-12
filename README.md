@@ -11,7 +11,6 @@ O dataset utilizado é o **Global Plastic Waste 2023: Country-wise Data**, dispo
 
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Executar](#como-executar)
 
 ## Objetivo do Projeto
 
@@ -30,16 +29,3 @@ O estudo utiliza técnicas de **análise exploratória de dados (EDA)**, **model
 - **scikit-learn**: Para aplicação de algoritmos de aprendizado de máquina.
 - **Jupyter Notebook**: Ambiente de desenvolvimento utilizado para o código interativo.
 - **Kaggle Dataset**: Fonte de dados para o projeto.  
-
-## Como Executar
-
-### 1. Requisitos
-
-Para reproduzir o projeto em seu ambiente local, siga as etapas abaixo:
-
-1. **Clone o repositório**:
-
-```bash
-git clone https://github.com/seu-usuario/Projeto-Semantix-Segunda-Opcao.git
-cd Projeto-Semantix-Segunda-Opcao  
-
